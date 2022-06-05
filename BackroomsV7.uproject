@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{66BBA87D-4903-6257-B37F-FA91C633EF13}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "BackroomsV7",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
